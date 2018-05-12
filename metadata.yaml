@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18444#The-Story-of-the-Hymns-and-Tunes
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-05-24'
 gutenberg_type: Text
