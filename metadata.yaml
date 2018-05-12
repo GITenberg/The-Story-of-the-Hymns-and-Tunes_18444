@@ -1,0 +1,34 @@
+_repo: The-Story-of-the-Hymns-and-Tunes_18444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brown, Theron
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '8033'
+    url: http://www.gutenberg.org/2009/agents/8033
+  - agent_name: Butterworth, Hezekiah
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '5730'
+    url: http://www.gutenberg.org/2009/agents/5730
+    wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2006-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymns -- History and criticism'
+- !lcc 'BV'
+- !lcsh 'Religious poetry'
+title: The Story of the Hymns and Tunes
+url: http://www.gutenberg.org/ebooks/18444
